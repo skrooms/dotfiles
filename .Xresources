@@ -1,0 +1,6 @@
+URxvt.depth: 32
+URxvt.background: [70]#000000
+URxvt.scrollBar: false
+URxvt.cursorColor: #6666ea
+*foreground: #FFFFFF
+URxvt.font: xft:hack
