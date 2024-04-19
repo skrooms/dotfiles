@@ -6,3 +6,5 @@ Change the values in .xrandrresolutionsetter to those matching your actual displ
 Information on that can be found [here](https://wiki.archlinux.org/title/xrandr#Adding_undetected_resolutions).
 
 .fehbg will probably yell at you for not having the wallpaper downloaded.
+
+You'll need a compositor downloaded for urxvt transparency. I'm using picom.
